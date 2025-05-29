@@ -79,6 +79,7 @@ for (let x in fruits){
     console.log(x)
 }
 
+console.log("Avelile")
 
 
 
